@@ -4,6 +4,10 @@
 - **GitHub Actions**: builds and pushes to GHCR, deploys to Minikube using a self-hosted runner.
 - **Kubernetes**: manifests in `k8s/` for a `Deployment` and `Service` (NodePort 30080).
 
+### Обучение DevOps
+- Программа на 12 недель: `LEARNING_PLAN.md`
+- Лабы и задания: `labs/README.md`
+
 ### Prerequisites
 - Docker Desktop or Docker Engine
 - Minikube with kubectl configured on your host
